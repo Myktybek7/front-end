@@ -45,3 +45,22 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.inactive {
+  color: #ccc;
+}
+
+.today {
+  background-color: #d9534f;
+  color: #fff;
+}
+
+.marker {
+  border: 2px solid #d9534f;
+  color: #333;
+}
+
+.marker-secondary {
+  border: 2px solid #5bc0de;
+  color: #333;
+}
