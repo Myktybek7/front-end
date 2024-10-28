@@ -86,3 +86,12 @@ body {
   font-size: 18px;
   cursor: pointer;
 }
+
+hr {
+  border: none; 
+  height: 1px; 
+  background-color: #000; 
+  margin: 20px 0; 
+  margin-left: -20px;
+  margin-right: -20px;
+}
